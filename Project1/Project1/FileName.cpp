@@ -6,4 +6,9 @@ int main()
 	int a = 1;
 	int b = 2;
 	std::cout << "a+b = " << a + b;
+
+	if (a == 1)
+	{
+		std::cout << "a = 1";
+	}
 }
