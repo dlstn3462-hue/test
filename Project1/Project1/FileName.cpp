@@ -2,5 +2,8 @@
 
 int main()
 {
-	std::cout << "hello insu";
+	std::cout << "hello insu \n";
+	int a = 1;
+	int b = 2;
+	std::cout << "a+b = " << a + b;
 }
